@@ -3,7 +3,7 @@
     <div class="hero is-primary">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title is-size-1">About My Mill</h1>          
+          <h1 class="title is-size-1">About Cs & Ds</h1>          
         </div>
       </div>
     </div>

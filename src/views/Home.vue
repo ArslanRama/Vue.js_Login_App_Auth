@@ -3,7 +3,7 @@
     <section class="hero is-dark">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title">Welcome to My Mill</h1>
+          <h1 class="title">Welcome to Cs&Ds</h1>
           <h2 class="subtitle">
             Make sure you check out our upcoming events below
           </h2>

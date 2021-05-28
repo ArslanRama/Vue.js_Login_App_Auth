@@ -1,4 +1,12 @@
-# my_mill_login_app
+# My First Vue.js Application
+
+- Using the Vue CLI
+- Creating reusable components
+- Setting up routing with Vue Router
+- Styling with Bulma
+- Using props and data
+- Adding authentication to a Vue.js app
+- Protecting routes with Vue navigation guards
 
 ## Project setup
 ```
