@@ -1,7 +1,9 @@
-// STEP-1, Importing Vue, App and Router at the top
-import Vue from 'vue'
-import App from './App.vue'
-import router from './router'
+// STEP-1, Importing Vue, App and Router and other components/modules at the top
+import Vue from 'vue';
+import App from './App.vue';
+import router from './router';
+
+import 'bulma/css/bulma.css';
 
 // STEP-2, Setting the app in development mode.
 Vue.config.productionTip = false
