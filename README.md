@@ -1,6 +1,6 @@
 # My First Vue.js Application
 
-![Mockup Image]('./public/mockup.png)
+![Mockup Image](public/mockup.png)
 
 - Using the Vue CLI
 - Creating reusable components
